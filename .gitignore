@@ -1,0 +1,6 @@
+*.swp
+*.pem
+*.crt
+*.key
+/users
+/ssl

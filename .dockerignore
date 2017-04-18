@@ -1,0 +1,7 @@
+ssl/
+*.md
+*.sh
+/users
+.git
+.gitignore
+.dockerignore
